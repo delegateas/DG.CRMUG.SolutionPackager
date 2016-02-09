@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdkMessageProcessingStep Name="DG.CRMUG.SolutionPackager.Plugins.AccountPostPlugin: Disassociate of any Entity" SdkMessageProcessingStepId="{6ffb4563-65cd-e511-80db-6c3be5beefc0}">
+  <PluginTypeName>DG.CRMUG.SolutionPackager.Plugins.AccountPostPlugin, ILMerged.Delegate.CRMUG.SolutionPackager.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=51dc1545a92d77cc</PluginTypeName>
+  <AsyncAutoDelete>0</AsyncAutoDelete>
+  <Description>Synced with DAXIF# v.2.2.0.0</Description>
+  <FilteringAttributes></FilteringAttributes>
+  <InvocationSource>0</InvocationSource>
+  <Mode>0</Mode>
+  <Rank>1</Rank>
+  <SdkMessageId>{bdfc191d-fc56-493a-a6b1-cb0c47a22ecc}</SdkMessageId>
+  <EventHandlerTypeCode>4602</EventHandlerTypeCode>
+  <Stage>40</Stage>
+  <IsCustomizable>1</IsCustomizable>
+  <IsHidden>0</IsHidden>
+  <SupportedDeployment>0</SupportedDeployment>
+  <IntroducedVersion>0.0.0.0</IntroducedVersion>
+  <SdkMessageProcessingStepImages />
+</SdkMessageProcessingStep>

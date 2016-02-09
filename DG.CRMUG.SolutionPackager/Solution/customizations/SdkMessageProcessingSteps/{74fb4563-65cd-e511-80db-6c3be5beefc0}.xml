@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdkMessageProcessingStep Name="DG.CRMUG.SolutionPackager.Plugins.AccountPrePlugin: Update of account" SdkMessageProcessingStepId="{74fb4563-65cd-e511-80db-6c3be5beefc0}">
+  <PluginTypeName>DG.CRMUG.SolutionPackager.Plugins.AccountPrePlugin, ILMerged.Delegate.CRMUG.SolutionPackager.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=51dc1545a92d77cc</PluginTypeName>
+  <PrimaryEntity>account</PrimaryEntity>
+  <AsyncAutoDelete>0</AsyncAutoDelete>
+  <Description>Synced with DAXIF# v.2.2.0.0</Description>
+  <FilteringAttributes></FilteringAttributes>
+  <InvocationSource>1</InvocationSource>
+  <Mode>0</Mode>
+  <Rank>1</Rank>
+  <SdkMessageId>{20bebb1b-ea3e-db11-86a7-000a3a5473e8}</SdkMessageId>
+  <EventHandlerTypeCode>4602</EventHandlerTypeCode>
+  <Stage>20</Stage>
+  <IsCustomizable>1</IsCustomizable>
+  <IsHidden>0</IsHidden>
+  <SupportedDeployment>0</SupportedDeployment>
+  <IntroducedVersion>0.0.0.0</IntroducedVersion>
+  <SdkMessageProcessingStepImages />
+</SdkMessageProcessingStep>

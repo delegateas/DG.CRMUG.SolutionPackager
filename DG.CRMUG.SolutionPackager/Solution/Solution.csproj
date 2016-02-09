@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{D1F9530F-4EA5-47AC-AFEE-4AD1C295183C}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <ItemGroup>
+    <Content Include="customizations\**\*.*" />
+    <Content Include="DG.CRMUG.SolutionPackager.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <Target Name="Clean">
+    <Exec Command="cls" />
+  </Target>
+  <Target Name="Build">
+    <Exec Command="cls" />
+  </Target>
+  <Target Name="ReBuild">
+    <Exec Command="cls" />
+  </Target>
+</Project>

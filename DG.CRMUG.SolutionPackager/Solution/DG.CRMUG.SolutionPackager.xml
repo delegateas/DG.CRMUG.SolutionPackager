@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping>
+  <FileToFile map="ILMergedDelegateCRMUGSolutionPackagerPlugins.dll"
+              to="..\..\Plugins\bin\**\ILMerged.Delegate.CRMUG.SolutionPackager.Plugins.dll"/>
+  <!-- Example for WF:
+  <FileToFile map="ILMergedDelegateCRMUGSolutionPackagerWorkflow.dll"
+              to="..\..\Workflow\bin\**\ILMerged.Delegate.CRMUG.SolutionPackager.Workflow.dll"/> -->
+
+  <!-- Example for WR:
+  <FileToPath map="WebResources\*.*" to="..\..\WebResources\src\dg_SolutionPackager\**"/>
+  <FileToPath map="WebResources\**\*.*" to="..\..\WebResources\src\dg_SolutionPackager\**"/> -->
+</Mapping>
